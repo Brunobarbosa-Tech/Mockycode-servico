@@ -1,4 +1,4 @@
-@import url("/public/src/assets/global/reset.css");
+@import url("../global/reset.css");
 header {
   background-color: var(--color-neutral-9);
   padding: 12px 4%;
